@@ -3,7 +3,7 @@
 End-to-End encryption with **Typescript** using **AES256 GCM ECDH**
 
 <div align="center">
-	<img src="screenshots/3.png" />
+	<img src="screenshots/3.PNG" />
 </div>
 
 ## Installation
