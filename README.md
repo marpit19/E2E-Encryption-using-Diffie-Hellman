@@ -11,6 +11,8 @@ End-to-End encryption with **Typescript** using **AES256 GCM ECDH**
 ```sh-session
 git clone https://github.com/marpit19/E2E-Encryption-using-Diffie-Hellman.git
 
+cd E2E-Encryption-using-Diffie-Hellman
+
 npm install
 
 npm start
